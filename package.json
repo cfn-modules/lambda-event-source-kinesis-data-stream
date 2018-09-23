@@ -1,0 +1,16 @@
+{
+  "name": "@cfn-modules/lambda-event-source-kinesis-data-stream",
+  "version": "0.1.0",
+  "description": "Kinesis data stream event source for AWS Lambda function",
+  "author": "Michael Wittig <michael@widdix.de>",
+  "license": "Apache-2.0",
+  "keywords": ["cfn-modules"],
+  "homepage": "https://github.com/cfn-modules",
+  "bugs": {
+    "url": "https://github.com/cfn-modules/lambda-event-source-kinesis-data-stream/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cfn-modules/lambda-event-source-kinesis-data-stream.git"
+  }
+}
