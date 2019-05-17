@@ -31,6 +31,15 @@ Resources:
       TemplateURL: './node_modules/@cfn-modules/lambda-event-source-kinesis-data-stream/module.yml'
 ```
 
+## Examples
+
+none
+
+## Related modules
+
+* [kinesis-data-stream](https://github.com/cfn-modules/kinesis-data-stream)
+* [lambda-function](https://github.com/cfn-modules/lambda-function)
+
 ## Parameters
 
 <table>
